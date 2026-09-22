@@ -8,7 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-.env
 .tmp
 .ruff_cache/
 .mypy_cache/
@@ -65,3 +64,5 @@ evals/results/logs/
 .cgr-parser-fingerprint
 .cgr-exclusion-state.json
 .cgr-*.tmp
+config.bat
+node_modules
